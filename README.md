@@ -17,6 +17,11 @@ Detects construction site safety violations in real-time from images or webcam f
 | Vehicle ✅       | —                    |
 
 ---
+## 🌐 Live Demo
+
+👉 [Try it here](https://ppe-safety-monitor-fsc3xntt4dpmd3824th2fu.streamlit.app)
+
+Upload any construction site image and get instant PPE compliance analysis.
 
 ## 🎯 Features
 
