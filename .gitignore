@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# YOLO pretrained models (not our trained model)
+yolov8n.pt
+yolov8s.pt
+yolov8m.pt
+yolov8l.pt
+yolov8x.pt
+yolo26n.pt
+
+# Keep best.pt but ignore last.pt
+runs/detect/ppe_runs/ppe_v1/weights/last.pt
+
+# Datasets
+Construction-Site-Safety-23/
+PPE-vest-hardhat-1/
+merged_dataset/
+
+# Logs
+violations_log.csv
+*.log
+
+# Cache
+*.cache
+.pytest_cache/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
